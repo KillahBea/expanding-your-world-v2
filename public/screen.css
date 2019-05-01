@@ -9,4 +9,41 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  background: url('https://media.giphy.com/media/Cv7wrQjYcd6hO/giphy.gif');
+  size: cover;
+}
+.header-1 {
+  text-align: center;
+  color: ;
+}
+#navigation nav ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+}
+#header-1 {
+  text-align: center;
+  color: black;
+}
+.string-of-pearls-image {
+  border: black solid 2px;
+}
+.lithops-img {
+  border: dotted black 2px;
+}
+.cacti-img {
+  border: dashed black 2px;
+}
+#intro {
+  border: solid black 2px;
+  width: 70%;
+  margin: auto;
+  padding: 10px;
+  background-color: aquamarine;
+}
+#footer {
+  border: solid blue 2px;
+  color: maroon;
+  font-size: 0.7rem;
+  text-align: center;
 }
